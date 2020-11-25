@@ -7,5 +7,5 @@ I have scheduled a monthly event when I watch these videos offline. I have found
 i love. 
 
 Next Targets
-1. Write a Terminal code which automatically deletes the watched videos. Target Date :31 Jan 2020
-2. Make seperate folders for every kind of video downloaded. For me, categories are yoga, productivity, computer science etc. Target Date: 31 Jan 2020
+1. Write a Terminal code which automatically deletes the watched videos. Target Date :31 Jan 2021
+2. Make seperate folders for every kind of video downloaded. For me, categories are yoga, productivity, computer science etc. Target Date: 31 Jan 2021
